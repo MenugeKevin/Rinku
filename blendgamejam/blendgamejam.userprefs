@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\GameManager\GameManager.cs">
+    <Files>
+      <File FileName="..\Project\onehouronegame\OHOG\OHOG.sln" Line="1" Column="1" />
+      <File FileName="..\Project\onehouronegame\OHOG\Assets\Script\HeartBonus.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GameManager\GameManager.cs" Line="99" Column="27" />
+      <File FileName="Assets\Script\Player\MovePlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Player\Square.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Player\Sphere.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
